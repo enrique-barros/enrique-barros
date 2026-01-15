@@ -45,7 +45,7 @@ Virtualenv, Jupyter Notebooks
 
 ### 🤝 Connect with Me
 
-* 📫 Contact: [GitHub](https://github.com/programacion-facil)
+* 📫 Contact: [GitHub](https://github.com/enrique-barros)
 
 ---
 
