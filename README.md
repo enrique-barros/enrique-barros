@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enrique Barros Fernández</h1>
+<h3 align="center">Tech educator & developer</h3>
+
+<p align="center">
+  <a href="https://www.youtube.com/@ProgramacionFacil" target="_blank"><img src="https://img.shields.io/badge/YouTube-Programación%20Fácil-red?style=for-the-badge&logo=youtube" alt="Programación Fácil YouTube Channel"></a>
+</p>
 
 ---
 
@@ -16,7 +21,7 @@ I'm a developer and tech educator passionate about making programming **easy and
 
 💻 Languages:
 Python, JavaScript, TypeScript, HTML5, CSS3, SQL, Bash, C, C++, C#, Java, Kotlin,
-Go, Rust, Ruby, Swift, PHP, R, MATLAB, Dart, Scala, Lua, Haskell
+Go, Rust, Ruby, Swift, PHP, R, MATLAB, Dart, Scala, Lua, Haskell,
 COBOL, PowerShell.
 
 🧰 Tools & Frameworks:
@@ -45,7 +50,8 @@ Virtualenv, Jupyter Notebooks
 
 ### 🤝 Connect with Me
 
-* 📫 Contact: [GitHub](https://github.com/enrique-barros)
+* 📺 YouTube Channel: [Programación Fácil](https://www.youtube.com/@ProgramacionFacil)
+* 📫 GitHub: [enrique-barros](https://github.com/enrique-barros)
 
 ---
 
