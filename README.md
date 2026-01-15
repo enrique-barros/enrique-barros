@@ -38,7 +38,7 @@ Virtualenv, Jupyter Notebooks
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programacion-facil&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrique-barros&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
