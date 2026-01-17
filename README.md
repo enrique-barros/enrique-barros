@@ -2,8 +2,11 @@
 <h3 align="center">Tech educator & developer</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/@ProgramacionFacil" target="_blank"><img src="https://img.shields.io/badge/YouTube-Programación%20Fácil-red?style=for-the-badge&logo=youtube" alt="Programación Fácil YouTube Channel"></a>
+  <a href="https://www.youtube.com/@EnriqueBarrosFdez" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-EnriqueBarrosFdez-red?style=for-the-badge&logo=youtube" alt="Enrique Barros YouTube Channel">
+  </a>
 </p>
+
 
 ---
 
