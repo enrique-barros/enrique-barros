@@ -45,7 +45,7 @@ Virtualenv, Jupyter Notebooks
 
 ### 🤝 Connect with Me
 
-* 📺 YouTube Channel: [Programación Fácil](https://www.youtube.com/@ProgramacionFacil)
+* 📺 YouTube Channel: [Enrique Barros](https://www.youtube.com/@EnriqueBarrosFdez)
 * 📫 GitHub: [enrique-barros](https://github.com/enrique-barros)
 
 ---
